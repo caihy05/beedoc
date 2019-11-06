@@ -158,7 +158,7 @@ sort: 3
 	- host  发送的邮箱地址
 	- sendTos   邮件需要发送的人，支持多个
 	- subject   发送邮件的标题，默认是 `Diagnostic message from server`
-	- level 日志发送的级别，默认是 Trace 级别
+	- level 日志发送的级别，默认是 LevelDebug 级别
 
 - ElasticSearch
 
